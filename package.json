@@ -20,6 +20,6 @@
     "rp-solidity-coverage": "^0.5.13",
     "shx": "^0.3.2",
     "truffle": "^5.0.26",
-    "web3-provider-engine": "^15.0.0"
+    "web3-provider-engine": "^15.0.12"
   }
 }
