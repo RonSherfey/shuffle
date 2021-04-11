@@ -13,7 +13,7 @@
   "dependencies": {
     "@0x/subproviders": "^4.1.0",
     "ethereumjs-util": "^6.1.0",
-    "ganache-cli": "^6.4.5",
+    "ganache-cli": "^6.12.2",
     "istanbul": "^0.4.5",
     "mdbootstrap": "^4.8.5",
     "open": "^6.4.0",
