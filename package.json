@@ -15,7 +15,7 @@
     "ethereumjs-util": "^6.1.0",
     "ganache-cli": "^6.4.5",
     "istanbul": "^0.4.5",
-    "mdbootstrap": "^4.8.5",
+    "mdbootstrap": "^4.19.2",
     "open": "^6.4.0",
     "rp-solidity-coverage": "^0.5.13",
     "shx": "^0.3.2",
