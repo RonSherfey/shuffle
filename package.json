@@ -11,7 +11,7 @@
     "macaron-cli": "^6.4.1"
   },
   "dependencies": {
-    "@0x/subproviders": "^4.1.0",
+    "@0x/subproviders": "^5.0.0",
     "ethereumjs-util": "^6.1.0",
     "ganache-cli": "^6.4.5",
     "istanbul": "^0.4.5",
